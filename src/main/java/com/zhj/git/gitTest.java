@@ -9,5 +9,6 @@ public class gitTest {
         System.out.println("master分支的测试冲突合并");
         System.out.println("冲突合并");
         System.out.println("测试push到github");
+        System.out.println("测试push到github22222");
     }
 }
