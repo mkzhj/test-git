@@ -11,5 +11,6 @@ public class gitTest {
         System.out.println("测试push到github");
         System.out.println("测试push到github22222");
         System.out.println("测试拉取代码到本地");
+        ystem.out.println("测试拉取代码到本地2");
     }
 }
