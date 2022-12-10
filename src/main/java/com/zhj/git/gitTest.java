@@ -6,5 +6,6 @@ public class gitTest {
         System.out.println("hello git222");
         System.out.println("hello git3333");
         System.out.println("正常合并");
+        System.out.println("冲突合并");
     }
 }
